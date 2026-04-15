@@ -41,7 +41,7 @@ System Architecture
 
 User Input → n8n Workflow → AI Processing → Data Storage → Recommendation Engine → User Output
 
-🧪 Example Use Case
+Example Use Case
 
 User asks:
 
